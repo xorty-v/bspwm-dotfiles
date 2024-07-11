@@ -17,15 +17,16 @@ BASE_PACKAGES = [
 ]
 
 DEV_PACKAGES = [
-    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "wireshark-qt",
-    "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
-    "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
-    "neovim", "obs-studio", "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay",
-    "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
+    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "filezilla", "ghex", 
+    "chromium", "keepassxc", "audacity", "gufw", "bleachbit", "veracrypt",
+    "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
+     "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay", "deluge-gtk", 
+     "flameshot", "obsidian", "cloc", "dotnet-sdk", "dotnet-runtime", "mono", 
+     "jetbrains-rider", "dotnet-aspnet-codegenerator", "postman", "docker",
 ]
 
 AUR_PACKAGES = [
-    "cava", "i3lock-color", "ptpython"
+    "cava", "i3lock-color"
 ]
 
 GNOME_OFFICIAL_TOOLS = [
